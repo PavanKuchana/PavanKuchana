@@ -1,7 +1,7 @@
 # Hi, I'm Pavan 👋
 
 **Senior Frontend Engineer | React.js · Next.js · JavaScript · TypeScript · Java/Spring Boot**
-**Fintech — Payments, Lending & Insurance**
+**Fintech - Payments, Lending & Insurance**
 
 I'm a frontend-led software engineer with 4+ years of experience building large-scale fintech web platforms - serving 500K+ annual users, with strong full stack exposure across payments, lending, and insurance products.
 
